@@ -1,0 +1,20 @@
+
+echo "# UAS-Web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BaniAF/UAS-Web.git
+git push -u origin main
+
+
+KETIKA UPLOAD 
+git init
+git add *
+git commit -m "(isi dengan apa yang dilakukan)"
+git branch  -M main
+git push -u origin main
+
+KETIKA AMBIL DATA
+git pull
+
